@@ -3,7 +3,10 @@
 
 
 
-<div align="center">![](https://komarev.com/ghpvc/?username=abhishen113) </div>
+![](https://komarev.com/ghpvc/?username=abhishen113) 
 
 
-![snake gif](https://github.com/abhishen113/abhishen113/blob/output/github-contribution-grid-snake.gif)
+
+
+
+![github-contribution-grid-snake](https://github.com/abhishen113/abhishen113/blob/output/github-contribution-grid-snake.svg)
